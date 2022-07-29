@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as r}from"./app.d1d44d58.js";const u=JSON.parse('{"title":"Watch","description":"","frontmatter":{},"headers":[],"relativePath":"vue/vue-3-watcher.md"}'),n={name:"vue/vue-3-watcher.md"},o=r("",5),c=[o];function s(i,d,h,p,_,l){return a(),t("div",null,c)}var g=e(n,[["render",s]]);export{u as __pageData,g as default};

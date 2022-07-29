@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.05b2a97c.js";const C=JSON.parse('{"title":"Single File Components (SFC)","description":"","frontmatter":{},"headers":[],"relativePath":"vue/vue-3-components.md"}'),e={name:"vue/vue-3-components.md"},o=l("",7),p=[o];function t(c,r,i,F,D,y){return a(),n("div",null,p)}var A=s(e,[["render",t]]);export{C as __pageData,A as default};
