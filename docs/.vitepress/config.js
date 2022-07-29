@@ -1,4 +1,5 @@
 export default {
+  base: "/webdevdocs/",
   lang: "en-US",
   title: "web dev docs",
   titleTemplate: "vue latest docs",
